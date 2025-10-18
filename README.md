@@ -10,7 +10,7 @@ Arhivos y directorios principales
 
 - data.py: Archivo encargado de manejar los datos del proyecto.
 
-- main.py: Archivo en donde se desarrollan las pruebas automatizadas
+- test_urban_routes.py: Archivo en donde se desarrollan las pruebas automatizadas
 ## Tecnologias utilizadas
 
 - Pycharm: Entorno de Desarrollo Integrado para trabajar con Python.
